@@ -1,9 +1,8 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mk-muzzammil&label=Profile%20views&color=0e75b6&style=flat" alt="mk-muzzammil" /> </p>
 
 <h1 align="center">Hi 👋, I'm Muhammad Muzzammil</h1>
 <h3 align="center">A passionate frontend  and desktop Application developer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE-88QNrQS6zhslrX7-Uq32FZOTHrJq8v16g&usqp=CAU">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mk-muzzammil&label=Profile%20views&color=0e75b6&style=flat" alt="mk-muzzammil" /> </p>
 
 - 🔭 I’m currently working on [New Age Grocery Management System](https://github.com/MK-Muzzammil/OOP-Project-New-Age-Grocerry-management-System.git)
 
@@ -16,20 +15,37 @@
 - 📫 How to reach me **muzzammil759@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
+  
+- 👯 I’m looking forward to collaborating on Frontend Design projects.
 
-<h3 align="left">Connect with me:</h3>
-
+<h2 id="-socials-">🌐 Connect With me :</h2>
 <p align="left">
 <a href="https://twitter.com/@mkmuzzammil786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mkmuzzammil786" height="30" width="40" /></a>
-<a href="https://fb.com/dev.muzzammil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dev.muzzammil" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mk-muzzammil" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
+</a>
 <a href="https://instagram.com/mk_muzzammil786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mk_muzzammil786" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+<h1 id="-tech-stack-">💻 Tech Stack:</h1>
+<p>
+  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" alt="React">
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&amp;logo=java&amp;logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&amp;logo=figma&amp;logoColor=white" alt="Figma">
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mk-muzzammil&show_icons=true&locale=en&layout=compact" alt="mk-muzzammil" /></p>
+<h2 id="-github-trophies">🏆 GitHub Trophies</h2>
+<p><img src="https://github-profile-trophy.vercel.app/?username=mk-muzzammil&amp;theme=onedark&amp;no-frame=false&amp;no-bg=true&amp;margin-w=4" alt=""></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mk-muzzammil&show_icons=true&locale=en" alt="mk-muzzammil" /></p>
+<h1 id="-github-stats-">📊 GitHub Stats:</h1>
+<p><img src="https://github-readme-stats.vercel.app/api?username=mk-muzzammil&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true" alt=""><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mk-muzzammil&amp;theme=dark&amp;hide_border=false" alt=""><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mk-muzzammil&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact" alt=""></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mk-muzzammil&" alt="mk-muzzammil" /></p>
+
