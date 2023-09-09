@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mk-muzzammil&label=Profile%20views&color=0e75b6&style=flat" alt="mk-muzzammil" /> </p>
 <img align="center" alt="coding" width="100%" src="https://github.com/mk-muzzammil/MK-Muzzammil/blob/main/images/Cover%20Photo.png">
 
-<h1 align="center">Hi 👋, I'm Muhammad Muzzammil</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Muzzammil.</h1>
 <h3 align="center">A passionate frontend  and desktop Application developer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE-88QNrQS6zhslrX7-Uq32FZOTHrJq8v16g&usqp=CAU">
 
