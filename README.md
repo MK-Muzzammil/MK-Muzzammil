@@ -6,7 +6,7 @@
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE-88QNrQS6zhslrX7-Uq32FZOTHrJq8v16g&usqp=CAU">
 
 - 🔭 I’m currently working on [New Age Grocery Management System](https://github.com/MK-Muzzammil/OOP-Project-New-Age-Grocerry-management-System.git),
-  [Habit Challenges App Website](https://github.com/mk-muzzammil/Challenges-Habit-App-Using-HTML-CSS-JS-.git)
+  [Habit Challenges App Website](https://github.com/mk-muzzammil/Challenges-Habit-App-Using-HTML-CSS-JS-.git),[Study Giene School Website](https://github.com/mk-muzzammil/Study-Giene-School-Website-Frontend-design.git)
 
 - 🌱 I’m currently learning **React,JavaScript**
 
