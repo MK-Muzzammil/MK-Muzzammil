@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MK-Muzzammil](https://github.com/MK-Muzzammil)
 
-- 💬 Ask me about **Java,HTML,CSS,Javascript**
+- 💬 Ask me about **Java,HTML,CSS,Javascript React **
 
 - 📫 How to reach me **muzzammil759@gmail.com**
 
